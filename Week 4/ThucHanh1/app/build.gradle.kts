@@ -50,8 +50,7 @@ dependencies {
     implementation(libs.androidx.ui.graphics)
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
-    implementation ("androidx.compose.ui:ui:1.5.0")
-    implementation ("androidx.compose.material3:material3:1.1.0")
+
     implementation("androidx.compose.ui:ui:1.6.1")
     implementation("androidx.compose.material:material:1.6.1")
     implementation("androidx.compose.ui:ui-tooling-preview:1.6.1")
